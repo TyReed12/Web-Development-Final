@@ -1,1 +1,2 @@
 # finalproject
+In this project we were given no constraints or framework restrictions. We decided we wanted to try on of the js libraries like chart.js and find some interesting information to fetch and display. This ended up being death statistics from the CDC. We ended up doing 5 different graphs representing a few different state and death rate comparisons as well as differente types of graphs. 
